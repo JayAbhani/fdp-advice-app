@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fdp-advice-app/static/css/main.91021119.css",
+    "main.js": "/fdp-advice-app/static/js/main.a2355288.js",
+    "index.html": "/fdp-advice-app/index.html",
+    "main.91021119.css.map": "/fdp-advice-app/static/css/main.91021119.css.map",
+    "main.a2355288.js.map": "/fdp-advice-app/static/js/main.a2355288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91021119.css",
+    "static/js/main.a2355288.js"
+  ]
+}
